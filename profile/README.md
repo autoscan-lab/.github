@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/go-1.22+-00ADD8?style=flat&logo=go&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/swift-5.9+-F05138?style=flat&logo=swift&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/electron-35+-47848F?style=flat&logo=electron&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" /></a>
   <a href="https://autoscan-web.vercel.app"><img src="https://img.shields.io/badge/website-autoscan-000000?style=flat" /></a>
 </p>
