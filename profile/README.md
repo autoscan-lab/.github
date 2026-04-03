@@ -13,6 +13,6 @@
 
 ---
 
-autOScan streamlines grading for OS labs, compiling submissions, running test cases, detecting banned calls and flagging similarity. Available as a TUI, macOS app soon.
+autOScan streamlines grading for OS labs, compiling submissions, running test cases, detecting banned calls and flagging similarity. Available as a TUI and macOS app.
 
 ---
