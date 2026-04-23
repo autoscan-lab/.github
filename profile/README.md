@@ -1,7 +1,7 @@
 <h1 align="center">autoscan-lab</h1>
 
 <p align="center">
-  <strong>Tools for grading OS lab submissions.</strong>
+  <strong>Tools for grading C lab submissions.</strong>
 </p>
 
 <p align="center">
@@ -13,6 +13,6 @@
 
 ---
 
-autOScan streamlines grading for OS labs, compiling submissions, running test cases, detecting banned calls and flagging similarity. Available as a TUI, macOS app and web agent.
+autOScan streamlines grading for C labs, compiling submissions, running test cases, detecting banned calls and flagging similarity. Available as a TUI, macOS app and web agent.
 
 ---
